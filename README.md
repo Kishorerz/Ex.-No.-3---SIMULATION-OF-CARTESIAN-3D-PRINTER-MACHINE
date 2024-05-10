@@ -54,7 +54,7 @@
 ![image](https://github.com/Raji1009/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/89059861/046b20d9-22ab-4779-b66e-cfaf4b3bc896)
 
 
-### Name: KIHSOR KUMAR B.
+### Name: KISHOR KUMAR B.
 ### Register Number: 212223240072
 
 ## Result: 
